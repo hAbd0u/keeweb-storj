@@ -1,0 +1,22 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "storj",
+  "description": "Storj sync",
+  "author": {
+    "name": "Beladel Ilyes Aabdelrazak & Katouache Tarek",
+    "email": "beladel.ilyes@gmail.com",
+    "url": "https://github.com/hAbd0u/"
+  },
+  "resources": {
+    "js": "fkXzTAVC91bix6fFiS0YN5ee8MkmOidPaO7see12V+sjuuwtuCtAO5yivBKaUSHhINWiv7e/5mVsS5zEOtJom1xKohjCOv9ExvH3wIjS5iMDNK1K7vkzhY26NikO7DOdAwEUFVnirzCfyLb5rosqY4XxZcNuzU9WZ6N6w42Y3OWvKn0ls3GUSu8NvH8o7Y/5Y2+Y8gDY4m3eF/wcAGO7FMgAgIvLB5rgaGq0WgsFfyH+fZ8oB8Bhp620nUltwrWtih46YurmTe+nYnGNd0s4dsnbWCQR0TsnORLIEDx2qleuptZt4A8amme3qPT+/OgIXz6eTGm/uf6ZVAGXP9y1+w=="
+  },
+  "licence": "",
+  "url": "https://github.com/hAbd0u/keeweb-storj",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwP6VUZKYh5cVHI7zexvZuRTxY45B3EGeoh3W4fV6dhKvmDdy0TvkZ6ibB4PrytEqmy80wB47qGMa7E5UPHWDAAaocDU2qVDmjoeFe6jwz3TPWK1pqPfo8bNTmHPaRGVdxvHQjINq6iJxw1OBnGqBFNymexSwGP5aeR76q1f7LkGqmq/xdR2j4uSOp1NFiZ1cidJFq2EBma9f4d85SvGmDrbbx7JTSy1bNqtvxERqBK2kVIyAPyl99PXPeXY53kh7Zd+WJQZb12UbRMgAi9RcElJUcfwUo6DTtNyZ7sA7vV/vkGk9z8M+m1fFB7tLzWTaxIswv2ZTRKbT7yuRchm98QIDAQAB",
+  "license": "MIT",
+  "locale": {
+    "name": "",
+    "title": ""
+  }
+}
